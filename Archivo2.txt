@@ -1,3 +1,5 @@
 he aprendido a eliminar y recuperar archivos en git 
 
 nuevo texto hoy
+
+mi actor favorito
